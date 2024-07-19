@@ -18,7 +18,7 @@ The "hack2skill_trading_system" promises to transform trading practices by makin
 
 ## Process Flow Diagram/Use Case Diagram
 
-![Process Flow Diagram](screenshots/process_flow.png)
+![Process Flow Diagram](/screenshots/process_flow.png)
 
 ## Screenshots
 
