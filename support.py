@@ -1,4 +1,4 @@
-`import yfinance as yf
+import yfinance as yf
 import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
@@ -209,4 +209,4 @@ iface = gr.Interface(fn=simplified_strategy,
                      description="Simulate Trading Strategy")
 
 # Launch the interface
-iface.launch()`
+iface.launch()
