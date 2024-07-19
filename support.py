@@ -210,3 +210,7 @@ iface = gr.Interface(fn=simplified_strategy,
 
 # Launch the interface
 iface.launch()
+
+
+
+
