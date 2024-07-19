@@ -23,15 +23,15 @@ The "hack2skill_trading_system" promises to transform trading practices by makin
 ## Screenshots
 
 - **User Interface**  
-  ![User Interface](screenshots\ui.jpg)
+  ![User Interface](/screenshots/ui.jpg)
 - **Backtesting Results**  
-  ![Backtesting Results](screenshots\backtesting_results.jpg)
+  ![Backtesting Results](/screenshots/backtesting_results.jpg)
 - **Overall Signals**  
-  ![Overall Signals](screenshots\results.jpg)
+  ![Overall Signals](/screenshots/results.jpg)
 - **Sell Signal**  
-  ![Sell Signal](screenshots\sell_signal.jpg)
+  ![Sell Signal](/screenshots/sell_signal.jpg)
 - **Buy Signal**  
-  ![Buy Signal](screenshots\buy_signal.jpg)
+  ![Buy Signal](/screenshots/buy_signal.jpg)
 
 ## Process Flow
 
