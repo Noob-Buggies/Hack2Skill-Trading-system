@@ -1,8 +1,4 @@
-Here's the README for the "hack2skill_trading_system" project, including placeholders for process flow diagrams, use case diagrams, screenshots, and animations.
-
----
-
-# hack2skill_trading_system
+# Hack2skill_trading_system
 
 ## Overview
 The "hack2skill_trading_system" is an innovative algorithmic trading solution designed to harness the power of artificial intelligence to optimize trading decisions. The system generates trading signals using technical indicators such as Bollinger Bands and the Relative Strength Index (RSI). By analyzing historical and real-time stock data, it identifies and learns from profitable trading patterns, notifying users promptly to capitalize on potential profit opportunities.
@@ -14,7 +10,7 @@ What sets the "hack2skill_trading_system" apart from other trading algorithms is
 The "hack2skill_trading_system" promises to transform trading practices by making advanced financial tools accessible to a broader audience and delivering significant financial benefits to its users. It enhances trading efficiency and empowers traders with data-driven insights, ensuring informed decisions and maximized profitability.
 
 ## Process Flow Diagram
-![Process Flow Diagram](path_to_process_flow_diagram.png)
+![Process Flow Diagram](process_flow.png)
 
 ## Use Case Diagram
 ![Use Case Diagram](path_to_use_case_diagram.png)
